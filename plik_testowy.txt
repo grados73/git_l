@@ -2,3 +2,4 @@ testowy tekstttt
 
 dodalem tekst
 zeby sprawdzic
+-----BEGIN PGP PUBLIC KEY BLOCK-----
