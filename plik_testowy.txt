@@ -1,1 +1,4 @@
 testowy tekstttt
+
+dodalem tekst
+zeby sprawdzic
